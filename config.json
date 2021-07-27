@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"ip":"KandJSMP.mcpro.io",
+	"port": "40234",
+	"name": "Server",
+	"auto-night-skip":"false"
 }
